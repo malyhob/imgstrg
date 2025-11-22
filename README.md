@@ -1,2 +1,2 @@
 # imgstrg
-image storage
+image storage, aka a glorified CDN
